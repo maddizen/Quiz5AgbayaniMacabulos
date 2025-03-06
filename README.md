@@ -1,5 +1,6 @@
 # Quiz5 
 DjangoBackEnd+ReadMe: Jan Raphael Macabulos
+
 ReactFrontEnd: Madeleine Palacol Agbayani
 
 This is the **backend** for the Quiz5 project, built with **Django REST Framework (DRF)** and **JWT authentication**.
